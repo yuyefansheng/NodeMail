@@ -13,23 +13,23 @@ let startDay = "2016/6/24";
 const local = "zhejiang/hangzhou";
 
 //发送者邮箱厂家
-let EmianService = "126";
+let EmianService = "163";
 //发送者邮箱账户SMTP授权码
 let EamilAuth = {
-  user: "xxx@126.com",
-  pass: "xxxx"
+  user: "jun_hj@163com",
+  pass: "TZRSRISDDFRGMAZI"
 };
 //发送者昵称与邮箱地址
-let EmailFrom = '"vince" <xxxxx@126.com>';
+let EmailFrom = '"vince" <jun_hj@163.com>';
 
 //接收者邮箱地
-let EmailTo = "xxxxx@qq.com";
+let EmailTo = "1213499677@qq.com";
 //邮件主题
 let EmailSubject = "一封暖暖的小邮件";
 
 //每日发送时间
-let EmailHour = 5;
-let EmialMinminute= 20;
+let EmailHour = 15;
+let EmialMinminute= 50;
 
 // 爬取数据的url
 const OneUrl = "http://wufazhuce.com/";
