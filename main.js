@@ -10,7 +10,7 @@ const schedule = require("node-schedule"); //定时器任务库
 //纪念日
 let startDay = "2016/6/24";
 //当地拼音,需要在下面的墨迹天气url确认
-const local = "zhejiang/hangzhou";
+const local = "jilin/shulan";
 
 //发送者邮箱厂家
 let EmianService = "163";
